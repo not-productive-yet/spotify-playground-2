@@ -2,6 +2,7 @@
   "name": "spotify-playground-2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://not-productive-yet.github.io/genius-playground",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
