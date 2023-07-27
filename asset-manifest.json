@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/genius-playground/static/css/main.073c9b0a.css",
-    "main.js": "/genius-playground/static/js/main.148cefcf.js",
-    "index.html": "/genius-playground/index.html",
-    "main.073c9b0a.css.map": "/genius-playground/static/css/main.073c9b0a.css.map",
-    "main.148cefcf.js.map": "/genius-playground/static/js/main.148cefcf.js.map"
+    "main.css": "/spotify-playground-2/static/css/main.073c9b0a.css",
+    "main.js": "/spotify-playground-2/static/js/main.148cefcf.js",
+    "index.html": "/spotify-playground-2/index.html",
+    "main.073c9b0a.css.map": "/spotify-playground-2/static/css/main.073c9b0a.css.map",
+    "main.148cefcf.js.map": "/spotify-playground-2/static/js/main.148cefcf.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
